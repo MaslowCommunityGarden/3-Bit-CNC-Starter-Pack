@@ -15,17 +15,17 @@ Downcut Router Bit Specifications:
 
 Upcut Router Bit Specifications:
 
-* Shank: 0.25″
-* Diameter: 0.25″
+* Shank: 1/4″
+* Diameter: 1/4″
 * Cut Length: 1″
-* Overall Length: 2.5″
+* Overall Length: 2-1/2″
 * Flutes: 2
 * Material: Carbide
 
 Compression Router Bit Specifications:
 
-* Shank: 0.25″
-* Diameter: 0.25″
+* Shank: 1/4″
+* Diameter: 1/4″
 * Cut Length: 1″
-* Overall Length: 2.5″
+* Overall Length: 2-1/2″
 * Material: Carbide
