@@ -4,26 +4,30 @@ A bundle of our most popular bits, this 3-pack of 1 Up cut, 1 Down cut, and 1 Co
 
 Further product details for each bit can be found below.
 
+Head over to [Maker Made](https://www.makermade.com/shop) to order.
+
 Downcut Router Bit Specifications:
 
-Shank: 0.25″
-Diameter: 0.25″
-Cut Length: 1″
-Overall Length: 2.5″
-Flutes: 2
-Material: Carbide
+* Shank: 1/4″
+* Diameter: 1/4″
+* Cut Length: 1″
+* Overall Length: 2-1/2″
+* Flutes: 2
+* Material: Carbide
+
 Upcut Router Bit Specifications:
 
-Shank: 0.25″
-Diameter: 0.25″
-Cut Length: 1″
-Overall Length: 2.5″
-Flutes: 2
-Material: Carbide
+* Shank: 1/4″
+* Diameter: 1/4″
+* Cut Length: 1″
+* Overall Length: 2-1/2″
+* Flutes: 2
+* Material: Carbide
+
 Compression Router Bit Specifications:
 
-Shank: 0.25″
-Diameter: 0.25″
-Cut Length: 1″
-Overall Length: 2.5″
-Material: Carbide
+* Shank: 1/4″
+* Diameter: 1/4″
+* Cut Length: 1″
+* Overall Length: 2-1/2″
+* Material: Carbide
