@@ -4,6 +4,8 @@ A bundle of our most popular bits, this 3-pack of 1 Up cut, 1 Down cut, and 1 Co
 
 Further product details for each bit can be found below.
 
+Head over to [Maker Made](https://www.makermade.com/shop) to order.
+
 Downcut Router Bit Specifications:
 
 * Shank: 1/4″
