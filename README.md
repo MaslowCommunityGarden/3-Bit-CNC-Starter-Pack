@@ -1,33 +1,9 @@
-# 3 Bit CNC Starter Pack
+# Router Bits
 
-A bundle of our most popular bits, this 3-pack of 1 Up cut, 1 Down cut, and 1 Compression router bit provides a great starter set of bits for your most common cutting needs, at a nearly 15% savings versus buying individually.  All three bits are solid carbide, with a 0.25in diameter shank and overall length of 2.5in.
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/3-Bit-CNC-Starter-Pack/Updates-August-2021/Photo_5.PNG)
 
-Further product details for each bit can be found below.
+MakerMade offers a variety of router bits to help you to pair with your CNC and bring your designs to life!
 
-Head over to [Maker Made](https://www.makermade.com/shop) to order.
+###### Head over to [Maker Made](https://www.makermade.com/shop) to order.
 
-Downcut Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Flutes: 2
-* Material: Carbide
-
-Upcut Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Flutes: 2
-* Material: Carbide
-
-Compression Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Material: Carbide
+#### ***Use promo code MASLOW10 for 10% off your order!***
