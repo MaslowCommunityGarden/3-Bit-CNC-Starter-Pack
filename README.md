@@ -1,6 +1,6 @@
 # 15’ XL Drive Chains
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/15_Chains.jpg)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/3-Bit-CNC-Starter-Pack/Updates-August-2021/15_Chains.jpg)
 
 A set of two, XL (15ft) drive chains for the Maslow or M2 CNC.  For those looking to improve their cut accuracy at the edges of their frame (by pairing with a 12ft top beam), or create a work surface larger than the standard 4 x 8 ft Maslow frame.
 
