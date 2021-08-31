@@ -1,33 +1,9 @@
-# 3 Bit CNC Starter Pack
+# 15’ XL Drive Chains
 
-A bundle of our most popular bits, this 3-pack of 1 Up cut, 1 Down cut, and 1 Compression router bit provides a great starter set of bits for your most common cutting needs, at a nearly 15% savings versus buying individually.  All three bits are solid carbide, with a 0.25in diameter shank and overall length of 2.5in.
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/3-Bit-CNC-Starter-Pack/Updates-August-2021/15_Chains.jpg)
 
-Further product details for each bit can be found below.
+A set of two, XL (15ft) drive chains for the Maslow or M2 CNC.  For those looking to improve their cut accuracy at the edges of their frame (by pairing with a 12ft top beam), or create a work surface larger than the standard 4 x 8 ft Maslow frame.
 
-Head over to [Maker Made](https://www.makermade.com/shop) to order.
+### ***Use promo code MASLOW10 for 10% off your order!***  
 
-Downcut Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Flutes: 2
-* Material: Carbide
-
-Upcut Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Flutes: 2
-* Material: Carbide
-
-Compression Router Bit Specifications:
-
-* Shank: 1/4″
-* Diameter: 1/4″
-* Cut Length: 1″
-* Overall Length: 2-1/2″
-* Material: Carbide
+Head on over to [Maker Made](https://makermade.com/collections/all/products/maslow-m2-cnc-15ft-drive-chains-2-chain-slack-sprocket-accessory) to order!
